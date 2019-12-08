@@ -1,0 +1,2 @@
+This is a test file for testing git file checking using ssh
+This file commit will also test renaming of files.
